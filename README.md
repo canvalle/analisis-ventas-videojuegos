@@ -16,7 +16,7 @@ El objetivo principal es brindar visibilidad integral sobre el rendimiento comer
 
 > *El reporte integra KPIs, análisis temporal, distribución regional y tablas de detalle con filtros cruzados dinámicos.*
 
-![Vista General del Reporte](assets/dashboard_ventas.jpg)
+![Vista General del Reporte](assets/dashboard.png)
 
 ---
 
