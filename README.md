@@ -5,14 +5,14 @@
 ![Dataset](https://img.shields.io/badge/Registros-16.3K+-teal?style=for-the-badge)
 ![Estado](https://img.shields.io/badge/Estado-Completado-success?style=for-the-badge)
 
-## 📌 Descripción del Proyecto
-Este proyecto presenta un análisis interactivo y exhaustivo del mercado global de videojuegos entre **1980 y 2017**, procesando más de **16.300 registros** y un volumen acumulado de **8.820 millones de unidades vendidas**.
+## Descripción del Proyecto
+Este proyecto simple presenta un análisis interactivo y exhaustivo del mercado global de videojuegos entre **1980 y 2017**, procesando más de **16.300 registros** y un volumen acumulado de **8.820 millones de unidades vendidas**.
 
 El objetivo principal es brindar visibilidad integral sobre el rendimiento comercial de la industria, permitiendo segmentar el comportamiento del mercado por **región geográfica, ciclo de vida de consolas, géneros dominantes y publishers líderes**.
 
 ---
 
-## 📸 Vista General del Dashboard
+## Vista General del Dashboard
 
 > *El reporte integra KPIs, análisis temporal, distribución regional y tablas de detalle con filtros cruzados dinámicos.*
 
@@ -26,7 +26,7 @@ El objetivo principal es brindar visibilidad integral sobre el rendimiento comer
 
 ---
 
-## 💡 Principales Insights de Negocio
+## Principales Insights de Negocio
 
 * **Concentración Geográfica:** **Norteamérica (NA)** y **Europa (EU)** representan en conjunto el **76,4%** del mercado mundial (4.333 M y 2.409 M de unidades, respectivamente).
 * **Preferencia Regional por Género:** 
@@ -37,7 +37,7 @@ El objetivo principal es brindar visibilidad integral sobre el rendimiento comer
 
 ---
 
-## 🛠️ Pipeline de Transformación y Modelado (Power Query)
+## Pipeline de Transformación y Modelado (Power Query)
 
 El dataset de origen (`ventas.csv`) fue transformado para garantizar un análisis multidimensional eficiente:
 
@@ -49,7 +49,7 @@ El dataset de origen (`ventas.csv`) fue transformado para garantizar un análisi
 
 ---
 
-## 📊 Visualizaciones y Componentes del Reporte
+## Visualizaciones y Componentes del Reporte
 
 | Componente | Tipo de Visual | Función Analítica |
 | :--- | :--- | :--- |
@@ -63,7 +63,7 @@ El dataset de origen (`ventas.csv`) fue transformado para garantizar un análisi
 
 ---
 
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```text
 ├── assets/
