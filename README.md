@@ -2,7 +2,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-ETL-teal?style=for-the-badge)
-![Dataset](https://img.shields.io/badge/Registros-16.3K+-white?style=for-the-badge)
+![Dataset](https://img.shields.io/badge/Registros-16.3K+-teal?style=for-the-badge)
 ![Estado](https://img.shields.io/badge/Estado-Completado-success?style=for-the-badge)
 
 ## 📌 Descripción del Proyecto
