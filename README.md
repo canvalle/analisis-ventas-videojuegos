@@ -2,7 +2,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-ETL-teal?style=for-the-badge)
-![Dataset](https://img.shields.io/badge/Registros-16.3K+-blue?style=for-the-badge)
+![Dataset](https://img.shields.io/badge/Registros-16.3K+-white?style=for-the-badge)
 ![Estado](https://img.shields.io/badge/Estado-Completado-success?style=for-the-badge)
 
 ## 📌 Descripción del Proyecto
@@ -17,6 +17,12 @@ El objetivo principal es brindar visibilidad integral sobre el rendimiento comer
 > *El reporte integra KPIs, análisis temporal, distribución regional y tablas de detalle con filtros cruzados dinámicos.*
 
 ![Vista General del Reporte](assets/dashboard.png)
+
+---
+
+## Demostración Interactiva del Dashboard con algunos filtros
+
+![Demostración Interactiva del Dashboard](assets/interactivo.gif)
 
 ---
 
@@ -61,9 +67,10 @@ El dataset de origen (`ventas.csv`) fue transformado para garantizar un análisi
 
 ```text
 ├── assets/
-│   └── dashboard_overview.png     # Captura en alta resolución del dashboard
+│   ├── dashboard.png              # Captura en alta resolución del reporte
+│   └── interactivo.gif            # Demostración interactiva en GIF (interacción con filtros)
 ├── data/
 │   └── ventas.csv                 # Dataset original procesado
 ├── pbix/
-│   └── Ventas Proyecto 1.pbix     # Archivo interactivo de Power BI Desktop
-└── README.md                      # Documentación del proyecto
+│   └── Ventas Proyecto 1.pbix     # Archivo del reporte en Power BI Desktop
+└── README.md                      # Documentación completa del proyecto
