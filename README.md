@@ -2,8 +2,8 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-ETL-teal?style=for-the-badge)
-![Dataset](https://img.shields.io/badge/Records-16.3K+-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Dataset](https://img.shields.io/badge/Registros-16.3K+-blue?style=for-the-badge)
+![Estado](https://img.shields.io/badge/Estado-Completo-success?style=for-the-badge)
 
 ## 📌 Descripción del Proyecto
 Este proyecto presenta un análisis interactivo y exhaustivo del mercado global de videojuegos entre **1980 y 2017**, procesando más de **16.300 registros** y un volumen acumulado de **8.820 millones de unidades vendidas**.
